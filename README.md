@@ -20,11 +20,11 @@ These instructions should theoretically work on Windows machines but I was not s
 
 ## Instructions
 
-####Default Deck List View
+#### Default Deck List View
 
 The default display is a list of decks of flashcards. There is a tab (at the bottom on iPhones and at the top on Android devices) for creating a new deck. Pressing on the New Deck tab will transfer you to a form with a single field. Pressing on one of the decks in the list will transfer you to a Single Deck view.
 
-####Create a Deck view
+#### Create a Deck view
 
 On the Create a Deck form, enter the title of your new deck. It should be a unique name. Press the Create Deck button to create the deck and then transfer to the Single Deck View.  If you change your mind about creating a deck, pressing the Deck List tab will return you to the Deck List without creating a new deck.
 
