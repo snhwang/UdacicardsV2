@@ -28,13 +28,13 @@ The default display is a list of decks of flashcards. There is a tab (at the bot
 
 On the Create a Deck form, enter the title of your new deck. It should be a unique name. Press the Create Deck button to create the deck and then transfer to the Single Deck View.  If you change your mind about creating a deck, pressing the Deck List tab will return you to the Deck List without creating a new deck.
 
-####Single Deck View
+#### Single Deck View
 
 At the single deck view, there are tabs for creating a new card and for taking a practice quiz with the flashcards in the deck. There are also two buttons below the title of the deck for deleting the entire deck and for returning to the deck list.
 
 In the Quiz view, a question will appear. Press the Show Answer button to see the answer. Press the Correct or Incorrect button to indicate the accuracy of your answer. You score will be computed. The quiz can be ended by pressing the End Quiz button or restarted by pressing the Restart button.
 
-####New Card View
+#### New Card View
 
 The New Card view is similar to the view for creating a new deck. The main difference is that there are 2 separate fields, one for the question and one for the answer. Press the Create Card button to create the new card. There is also a Clear button for clearing the fields without creating a new card. Pressing the button also returns you to the single deck view. You can also press the Single Deck tab to return. 
 
